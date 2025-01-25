@@ -16,4 +16,4 @@
 - Email: ndodak09@gmail.com  
 
 😄 **Pronouns:** He/Him/His  
-⚡ **Fun fact:** Debugging is like solving a mystery—except the culprit is always a 'missing semicolon.' 😂  
+⚡ **Fun fact:** Debugging my first React app taught me two things: missing semicolons cause chaos, and persistence is the ultimate bug squasher. 🚀  
